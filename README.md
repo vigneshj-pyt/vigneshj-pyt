@@ -18,9 +18,10 @@ _  /___/ /_/ / _  /    / /_/ / __ |/ / /  __/_  /     _  ___ |_  /    / /_  _  /
 <a href="https://streak-stats.demolab.com?user=vigneshj-pyt&theme=transparent&hide_border=true" target="_blank">
 <img height=200  src="https://streak-stats.demolab.com?user=vigneshj-pyt&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshj-pyt&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" target="_blank">
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshj-pyt&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" target="_blank">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshj-pyt&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" />
-</a>
+</a> -->
+
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=vigneshj-pyt&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshj-pyt&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
 </a>
